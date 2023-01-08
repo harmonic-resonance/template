@@ -1,7 +1,7 @@
 from ablog.conf import *
 
-org = 'geometor'
-org_name = 'GEOMETOR'
+org = 'harmonic-resonance'
+org_name = 'HARMONIC resonance'
 
 repo = 'template'
 repo_name = 'template'
